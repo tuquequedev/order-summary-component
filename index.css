@@ -45,9 +45,9 @@ body {
     text-align: center;
 }
 
-/* Tittle text */
+/* Title text */
 
-.tittle {
+.title {
     color: hsl(223, 47%, 23%);
     font-weight: 900;
     font-size: 32px;
@@ -105,7 +105,7 @@ body {
 .plan-box a:hover {
     text-decoration: none;
     color: hsl(245, 75%, 52%);
-    transition: color 0.3s ease;
+    transition: color 0.55s ease;
 }
 
 /* Payment Button */
